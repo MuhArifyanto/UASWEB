@@ -9,11 +9,12 @@
 | *Dosen Pengampu* | Eko Budiarto, S.Kom., M.M. |
 
 # 1.Hero Section
-*** Terdapat gambar latar belakang besar yang menggambarkan keragaman kuliner Indonesia.
+
+* Terdapat gambar latar belakang besar yang menggambarkan keragaman kuliner Indonesia.*
 Berisi:
 Judul utama: "Jelajahi Citarasa Nusantara".
 Deskripsi singkat: "Temukan keberagaman kuliner Indonesia yang menakjubkan."
-Bagian ini bertujuan menarik perhatian pengguna dan memberi gambaran awal tentang tema website. ***
+Bagian ini bertujuan menarik perhatian pengguna dan memberi gambaran awal tentang tema website. *
 
 3. Bagian Kartu (Cards)
 Bagian ini menampilkan informasi kuliner Nusantara dalam format kartu dengan desain grid. Setiap kartu berisi:
